@@ -15,5 +15,4 @@ func main() {
 
 	*ptr = *ptr * 2 //it is modified the actual value.
 	fmt.Println("new value is", myNumber)
-
 }
